@@ -3,3 +3,6 @@ __pycache__/
 *.pyc
 hand_landmarker.task
 .env
+venv/
+*.db
+flowsync.db
